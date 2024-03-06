@@ -12,7 +12,7 @@ export default function Home() {
       .then((data) => {
         console.log("data from backend", data);
         setSongs(data.songs);
-        setDay(data.days[0]);
+        setDay(data.day);
       });
   }, []);
 
