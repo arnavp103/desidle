@@ -1,34 +1,31 @@
 {
-	"songs": [
-		"Sonu Nigam - Tenu Leke",
-		"AP Dhillon - Brown Munde"
-	],
-	"days": [
-		{
-			"date": "2015-01-01",
-			"clues": [
-				["bass", "track1.mp4"],
-				["guitar", "track2.mp4"],
-				["guitar", "track3.mp4"],
-				["guitar", "track4.mp4"],
-				["guitar", "track5.mp4"],
-				["clue", "this band is made of 3"],
-				["youtube","https://www.youtube.com/watch?v=3JZ_D3ELwOQ"]
-			],
-			"solution": "Sonu Nigam - Tenu Leke"
-		},
-		{
-			"date": "2022-01-02",
-			"clues": [
-				["bass", "track6.mp4"],
-				["guitar", "track7.mp4"],
-				["synth", "track8.mp4"],
-				["piano", "track9.mp4"],
-				["voice", "track10.mp4"],
-				["clue", "this band is made of 4"],
-				["youtube","https://www.youtube.com/watch?v=fJ9rUzIMcZQ"]
-			],
-			"solution": "AP Dhillon - Brown Munde"
-		}
-	]
+  "songs": ["Sonu Nigam - Tenu Leke", "AP Dhillon - Brown Munde"],
+  "days": [
+    {
+      "date": "2015-01-01",
+      "clues": [
+        ["bass", "track1.mp4"],
+        ["guitar", "track2.mp4"],
+        ["guitar", "track3.mp4"],
+        ["guitar", "track4.mp4"],
+        ["guitar", "track5.mp4"],
+        ["clue", "this band is made of 3"],
+        ["youtube", "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"]
+      ],
+      "solution": "Sonu Nigam - Tenu Leke"
+    },
+    {
+      "date": "2022-01-02",
+      "clues": [
+        ["bass", "track6.mp4"],
+        ["guitar", "track7.mp4"],
+        ["synth", "track8.mp4"],
+        ["piano", "track9.mp4"],
+        ["voice", "track10.mp4"],
+        ["clue", "this band is made of 4"],
+        ["youtube", "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"]
+      ],
+      "solution": "AP Dhillon - Brown Munde"
+    }
+  ]
 }
