@@ -17,15 +17,20 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24 max-w-">
-      <section className="flex flex-row items-end w-full justify-between border-b-2 border-slate-200 pb-2">
+    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+      <header className="flex flex-row items-end w-full justify-between border-b-2 border-slate-200 pb-2">
         <p>light mode</p>
         <h1 className="text-4xl font-bold">
           <span className="text-saffron">Desi</span>dle
         </h1>
         <p>help</p>
-      </section>
+      </header>
       <section className="flex flex-col items-center justify-between gap-2"></section>
+      <footer className="flex flex-row items-center w-full justify-between border-t-2 border-slate-200 pt-2">
+        <p>home</p>
+        <p>settings</p>
+        <p>about</p>
+      </footer>
     </main>
   );
 }
