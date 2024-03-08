@@ -1,0 +1,10 @@
+use some site to split the tracks since we don't know how to do it manually. 
+
+look in public/ for an example with brown munde.  it's a 5 minute song.  we want to split it into 5 separate 1 minute tracks. 
+
+this was using some site called:
+https://studio.moises.ai/library/
+
+
+
+
